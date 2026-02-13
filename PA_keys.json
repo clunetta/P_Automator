@@ -1,1 +1,29 @@
-test
+{
+    "PB3": {
+        "BTFB_RSC": "dc5191b6aabfcc686b940de30b54c6057c0bb50d",
+        "BTFB_LSC": "124f8d2a502fb8233ef9ec2dae6aee48504a3527",
+        "BTFB_B": "1ddfec95a7fa0f5779aeeca54d5c455e645992e7",
+        "BTFB_RS": "aac8e07184f52567f5ce1f7c6861cd79df3fe052",
+        "BTFB_LS": "7ae7e96ef4f370d0be02c615e0d16aec187bfc44",
+        "BTFB_Thin": "d3ca55b483c6c6067b31c6114220225e2a66262f",
+        "BTF_B": "6b6b7cfc748d844052d0fa6f2026868f9eb4abe6",
+        "BTF_LS": "8a74d0cf6af35c3c8d9c90cca130782ed6d879d4",
+        "BTF_RS": "f31d071f846949320504f319de685fd873df8bd7",
+        "ATF_RS": "598dfa13973772b38c5d8ced164737401ced4bb5",
+        "ATF_LS": "bcc660fec89f9a17c8c3c6f19f0b50b6c2b9841f",
+        "ATF_B": "afd6b8243440b82c66fc5fc58e24393eaa32d67b",
+        "PB3.0_Ports": "f88ea3937941efc3ef23ec363cbce5289e805495",
+        "Overlays": "a4b2f039e0f345c9fb864aa0599fad35a8fc18dc"
+    },
+    "ETAIL": {},
+    "SOCIAL": {},
+    "BANNERS": {
+        "Button OK": "a1ca5c6400c35a4829f414ae08968b4429a2ab9c",
+        "Media Banners Lifestyle": "76dd51a358662173aca07173d6e17c2fdfda333e",
+        "Media Banners Product": "eed768ebfb343cdd59bbabd0bc912f64675a5b05",
+        "Logo OK": "38bb852b772096f8a7b68f6928b5b170cc14bb75",
+        "Logo Alliance": "260ceef2f97fe36f1e2939a21aa6139c3b008815",
+        "Media Banners Both": "7ffe0fc8fdb88f05203a74946fcf21468f1b59e6"
+    },
+    "RETAIL": {}
+}
