@@ -16,9 +16,9 @@
         "PB3.0_Ports": "f88ea3937941efc3ef23ec363cbce5289e805495"
     },
     "ETAIL": {
-        "ATF": "cb7112c9602d519b9952416f713bad7598ec5214",
-        "ATF Module=KSPs, Style=Full Bleed, Image=Lifestyle, Copy=Title only": "11e3aae43c586be626950f235fc8dbcb5748ef9a",
-        "ATF Module=Dimensions, Style=Right Top Stripe, Image=Product Isolated, Copy=Dimensions": "e72719ff4009ba1f8096bf2e107d31c429da6037"
+        "Etail ATF": "cb7112c9602d519b9952416f713bad7598ec5214",
+        "Etail ATF Module=KSPs, Style=Full Bleed, Image=Lifestyle, Copy=Title only": "11e3aae43c586be626950f235fc8dbcb5748ef9a",
+        "Etail ATF Module=Dimensions, Style=Right Top Stripe, Image=Product Isolated, Copy=Dimensions": "e72719ff4009ba1f8096bf2e107d31c429da6037"
     },
     "SOCIAL": {
         "Social": "2bf1a26efa7048d45196993475384905c146d0b2",
