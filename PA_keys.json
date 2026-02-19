@@ -167,5 +167,9 @@
         "Media Banners Product Alliance Size=160x600, Layout=B": "5b4cf084f845b4d810db8849202d8f4756e799c5",
         "Media Banners Product Alliance Size=160x600, Layout=C": "0e6c9bafcac1f5c65282b5f5c86c1166f6bf8b94"
     },
-    "RETAIL": {}
+    "RETAIL": {},
+    "GENERAL": {
+        "FPO": "6a07ed3e7779a954975342fdb89ce7f166f7462d",
+        "FPO Copy": "5dceb65c3570fc619dca1023d257aad3b04278df"
+    }
 }
