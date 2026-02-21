@@ -19,12 +19,15 @@
         "Etail ATF": "cb7112c9602d519b9952416f713bad7598ec5214",
         "Etail ATF Module=KSPs, Style=Full Bleed, Image=Lifestyle, Copy=Title only": "11e3aae43c586be626950f235fc8dbcb5748ef9a",
         "Etail ATF Module=Dimensions, Style=Right Top Stripe, Image=Product Isolated, Copy=Dimensions": "e72719ff4009ba1f8096bf2e107d31c429da6037",
-        "Etail ATF Module=Walkaround​, Style=Right Bg Stripe​, Image=Product Isolated, Copy=Title+Icons​, BU=PS": "181f032b4aebe0cb15944f32c365fc6935b3574d",
-        "Etail ATF Module=Dimensions​, Image=Product Isolated, Copy=Title+Icons​, BU=PS": "11f3069941d8bd9a0dab3a3740615e76cdad1ca0",
-        "Etail ATF Module=Ports​, Image=Product Isolated, Copy=Title+Icons​, BU=PS": "142be5d2cd326cc227d2d3f308ddfcc9433666b4",
+        "Etail ATF Module=Walkaround​, Style=Right Bg Stripe​, Image=Product Isolated, Copy=Title+Icons​, BU=PS": "c8a3c8f791aae829ea6ec103757970eb591175c8",
+        "Etail ATF Module=Dimensions​, Image=Product Isolated, Copy=Title+Body, BU=PS": "11f3069941d8bd9a0dab3a3740615e76cdad1ca0",
+        "Etail ATF Module=Ports​, Image=Product Isolated, Copy=Title+Body​, BU=PS": "142be5d2cd326cc227d2d3f308ddfcc9433666b4",
         "Etail ATF Module=What's included​​, Image=Product Isolated, Copy=Title+Icons​, BU=PS": "d873017dfad56b622ce539926f0658a860ee0e54",
-        "Etail ATF Module=KSPs, Style=Full Bleed, Image=Lifestyle, Copy=Title only, BU=PS": "4857955ac3776dc5ae52679b4b9d6b3bf962927b",
-        "Etail ATF Module=Sustainaibility, Style=Full Bleed, Image=Lifestyle, Copy=Title only, BU=PS": "d26f97a57342819aab9d92f54dc9519969a03db4"
+        "Etail ATF Module=KSPs, Style=Full Bleed, Image=Lifestyle, Copy=Title+Body, BU=PS": "4857955ac3776dc5ae52679b4b9d6b3bf962927b",
+        "Etail ATF Module=Sustainaibility, Style=Full Bleed, Image=Lifestyle, Copy=Title+Icons​, BU=PS": "d26f97a57342819aab9d92f54dc9519969a03db4",
+        "Etail ATF Module=Additional Features​, Image=Product Isolated, Copy=Title+Body, BU=PS": "181f032b4aebe0cb15944f32c365fc6935b3574d",
+        "Etail ATF Module=Additional Features​, Style=Right Bg Stripe​, Image=Product Isolated, Copy=Title+Body​, BU=PS": "8aec1cc4a265f91cb2a9b2fb8b457b02f40ad47d",
+        "Etail ATF Module=Disclaimers​, Style=Disclaimers​​, Image=No image, Copy=Disclaimers​": "a056a83a18857b216c92249a2c7bf70b67105409"
     },
     "SOCIAL": {
         "Social": "2bf1a26efa7048d45196993475384905c146d0b2",
@@ -79,14 +82,14 @@
         "Social Format=Stories, Photo=Lifestyle, Layout=B, Alliance=Yes": "7f3474695abd5332f14a17fe8cd3df23399d052c",
         "Social Format=Stories, Photo=Both, Layout=A, Alliance=Yes": "ef55d258c7ccf85eff0fe0068621ba42b2b49750",
         "Carousel": "72c0766588babb99c6dad4aa2106b699de982f79",
-        "Carousel Steps=Carousel 6 steps, Alliance=Yes": "3914654592124579c2f7f5769ca14ba9d66ef1b9",
-        "Carousel Steps=Carousel 5 steps, Alliance=Yes": "84b24a0c08a81021356a7de2116b492dca7290f1",
-        "Carousel Steps=Carousel 5 steps, Alliance=No": "251d0c6b1088211e82d4b0148951ae911284bc4a",
-        "Carousel Steps=Carousel 4 steps, Alliance=Yes": "5c5e9488071b17f458d87f7fb7323b2e6afb05bc",
-        "Carousel Steps=Carousel 4 steps, Alliance=No": "45da362ea675f937362b39edb7db53d5fc72583b",
-        "Carousel Steps=Carousel 3 steps, Alliance=Yes": "e7b6aa5b5fe893d7ce28059b62265c3bf915a82e",
-        "Carousel Steps=Carousel 3 steps, Alliance=No": "f8bb0f0f1b60f8b42cf4de7283cb7a68d53cba12",
-        "Carousel Steps=Carousel 6 steps, Alliance=No": "9a151d9bf2d9a809abf20f842f5305a277736dc8"
+        "Carousel Steps=6, Alliance=Yes": "3914654592124579c2f7f5769ca14ba9d66ef1b9",
+        "Carousel Steps=5, Alliance=Yes": "84b24a0c08a81021356a7de2116b492dca7290f1",
+        "Carousel Steps=5, Alliance=No": "251d0c6b1088211e82d4b0148951ae911284bc4a",
+        "Carousel Steps=4, Alliance=Yes": "5c5e9488071b17f458d87f7fb7323b2e6afb05bc",
+        "Carousel Steps=4, Alliance=No": "45da362ea675f937362b39edb7db53d5fc72583b",
+        "Carousel Steps=3, Alliance=Yes": "e7b6aa5b5fe893d7ce28059b62265c3bf915a82e",
+        "Carousel Steps=3, Alliance=No": "f8bb0f0f1b60f8b42cf4de7283cb7a68d53cba12",
+        "Carousel Steps=6, Alliance=No": "9a151d9bf2d9a809abf20f842f5305a277736dc8"
     },
     "BANNERS": {
         "Button": "a1ca5c6400c35a4829f414ae08968b4429a2ab9c",
