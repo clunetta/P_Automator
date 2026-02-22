@@ -20,7 +20,7 @@
         "Etail ATF Module=Hero, Image=Product Isolated, Copy=No copy": "3028bbdda693d5e36c5e454e2e642fd7dba6d555",
         "Etail ATF Module=KSPs, Style=Full Bleed, Image=Lifestyle, Copy=Title only": "11e3aae43c586be626950f235fc8dbcb5748ef9a",
         "Etail ATF Module=Dimensions, Style=Right Top Stripe, Image=Product Isolated, Copy=Title+Body, BU=Print": "e72719ff4009ba1f8096bf2e107d31c429da6037",
-        "Etail ATF Module=Walkaround, Style=Right Top Stripe, Image=Product Isolated, Copy=Title+Icons, BU=Print": "92106705dceb67f82c01aedaf8b2e7a615091ca3",
+        "Etail ATF Module=Walkaround, Image=Product Isolated, Copy=Title+Icons, Style=Right Top Stripe, BU=Print": "92106705dceb67f82c01aedaf8b2e7a615091ca3",
         "Etail ATF Module=Core Features, Style=Right Top Stripe, Image=Product Isolated, Copy=Title+Icons": "f5f3bbf843a3509edf6ed4d6ac6fad65e1d5af67",
         "Etail ATF Module=What's included, Style=Right Top Stripe, Image=Product Isolated, Copy=Title+Icons, BU=Print": "a745e3cd6186aa301031b5b2f356114a6c8ea5d4",
         "Etail ATF Module=Sustainaibility​, Style=Right Top Stripe, Image=Product Isolated, Copy=Title only, BU=Print": "c125bd998ce448191fa903d1ffd08f06620f1364",
@@ -32,7 +32,16 @@
         "Etail ATF Module=Sustainaibility, Style=Full Bleed, Image=Lifestyle, Copy=Title+Icons​, BU=PS": "d26f97a57342819aab9d92f54dc9519969a03db4",
         "Etail ATF Module=Additional Features​, Image=Product Isolated, Copy=Title+Body, BU=PS": "181f032b4aebe0cb15944f32c365fc6935b3574d",
         "Etail ATF Module=Additional Features​, Style=Right Bg Stripe​, Image=Product Isolated, Copy=Title+Body​, BU=PS": "8aec1cc4a265f91cb2a9b2fb8b457b02f40ad47d",
-        "Etail ATF Module=Disclaimers​, Style=Disclaimers​​, Image=No image, Copy=Disclaimers​": "a056a83a18857b216c92249a2c7bf70b67105409"
+        "Etail ATF Module=Disclaimers​, Style=Disclaimers​​, Image=No image, Copy=Disclaimers​": "a056a83a18857b216c92249a2c7bf70b67105409",
+        "Etail ATF Module=Hero, Image=Product Isolated, Copy=Title+Sub+Body​, BU=PS": "da1761ef9a54db570e0485e069aa85ab082eaab1",
+        "Etail ATF Module=KSP A, Style=Right Bg Stripe​, Image=Product Isolated, Copy=Title+Sub​, BU=PS": "d180ab8e4cf2f03f0fb5f5346a4bb5cdc626f16a",
+        "Etail ATF Module=Carousel, Style=Right Stripe crop​​, Image=Product Isolated, Copy=Title+Sub​, BU=PS": "93dad2b81a692a23a5fb5e75604236df9d29bf6c",
+        "Etail ATF Module=KSP B, Style=Left Stripe crop​​, Image=Lifestyle​, Copy=Title+Sub​, BU=PS": "a0c5ecc6838d9e2df67434e7b7214825425b18d4",
+        "Etail ATF Module=KSP C, Style=Left Top Stripe​, Image=Product Isolated​, Copy=Title+Sub​, BU=PS": "dccada58a0f21bf885d741eb56908ad3f856bfb8",
+        "Etail ATF Module=KSP D, Image=Product Isolated​, Copy=Title+Sub​, BU=PS": "e06aea1483357ddffd901ee71f276b3f3df9047d",
+        "Etail ATF Module=Sustainaibility​, Style=Right Stripe crop​​, Image=Lifestyle, Copy=Title+Icons​, BU=PS": "ff529b4d92efbd0a1e6af6f203eba5bf062fc1d6",
+        "Etail ATF Module=Ports​, Image=Product Isolated​, Copy=Title+Copy​, BU=PS": "ff7d640eb5430e8d10e9b951366ad3a72083339b",
+        "Etail ATF Module=Disclaimers​, Image=Disclaimers​​, Copy=No image, Style=Disclaimers​": "9aba331f865d689962121f475cb4953b4162904e"
     },
     "SOCIAL": {
         "Social": "2bf1a26efa7048d45196993475384905c146d0b2",
